@@ -7,7 +7,7 @@ The binary files mentioned below populate the OTA selection data partition at of
 
 ### `boot_ota_app0_0xE000.bin`
 - **Use for**: CircuitPython/WipperSnapper applications
-- **Source**: Arduino ESP32 BSP
+- **Source**: Arduino ESP32 BSP (boot_app0.bin)
 - **Effect**: Boots directly into OTA app partition 0 (your main application)
 
 ### `boot_factory_tinyuf2_0xE000.bin` 
